@@ -28,6 +28,8 @@
 
 ### Courses:
 - HTML and CSS Tutorials on the [w3schools](https://www.example.com) (completed)
+![Image alt](https://github.com/{elena-rodionova/rsschool-cv/gh-pages/w3schools-score.jpg)
+  w3schools-score.jpg
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 - RS Schools Course «JavaScript/Front-end.» (in progress)
 
