@@ -17,6 +17,11 @@
 
 ### Briefly About Myself:
 
+An enthusiastic and detail-oriented Junior Frontend Developer with knowledge in HTML and CSS, as well as third-party libraries such as Vue.js.
+I started learning programming during pandemic. Being a teacher by education, I decided to put knowledge into practice on programming courses for teens in middle and high school.
+
+Seeking to utilize my technical skills and expertise to provide value to the employer and contribute to successful projects both today and in the future.
+
 ---
 
 ### Skills and Proficiency:
