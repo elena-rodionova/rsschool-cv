@@ -1,0 +1,109 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+}
+.name{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.prof{
+    font-size: 28px;
+    margin-top: 30px;
+
+}
+
+.pink{
+    background-color: #f7beb2;
+}
+
+.intro{
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+
+h3{
+    font-size: 28px;
+    margin-bottom: 40px;
+
+}
+
+.grey{
+    background-color:
+            #efedec;
+}
+
+.contacts{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.contacts-table{
+    font-size: 20px;
+}
+
+.pink-light{
+    background-color: #fcebe7;
+}
+
+.dark-grey{
+    background-color: #333333;
+}
+
+.about{
+    padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+
+.about-text{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+li{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.skills{
+    padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+
+.courses{
+    padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+
+.lang{
+    padding-top: 50px;
+    padding-bottom: 70px;
+
+}
+
+.footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: right;
+}
+
+.img-courses{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+a{
+
+    color: black;
+    text-decoration: underline;
+}
+
